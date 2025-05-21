@@ -6,6 +6,8 @@ console.log(password, "it must not be logged");
 
 a = 2;
 
+await startHttpsServerWithPassword(password);
+
 if (a=1) {
   console.log('oopsie is it a bug or feature?');
 }
