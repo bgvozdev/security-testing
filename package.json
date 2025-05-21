@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bgvozdev/security-testing/issues"
   },
-  "homepage": "https://github.com/bgvozdev/security-testing#readme"
+  "homepage": "https://github.com/bgvozdev/security-testing#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "event-stream": "^4.0.1",
+    "jquery": "^3.5.0"
+  }
 }
