@@ -1,0 +1,19 @@
+{
+  "name": "security-testing",
+  "version": "1.0.0",
+  "description": "security-testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgvozdev/security-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgvozdev/security-testing/issues"
+  },
+  "homepage": "https://github.com/bgvozdev/security-testing#readme"
+}
